@@ -1,0 +1,291 @@
+{
+  "students-class-a": [
+    {
+      "id": "220145***",
+      "classId": "A",
+      "name": "ANDRE LUIS JACOB ROMAN"
+    },
+    {
+      "id": "231051***",
+      "classId": "A",
+      "name": "ARTHUR VINICIUS DE OLIVEIRA SEMENSATI"
+    },
+    {
+      "id": "222650***",
+      "classId": "A",
+      "name": "CASSIA YUMI IWAMOTO BASSO"
+    },
+    {
+      "id": "220144***",
+      "classId": "A",
+      "name": "DANIEL BARRIONUEVO GOMES"
+    },
+    {
+      "id": "222621***",
+      "classId": "A",
+      "name": "DANIEL CARDOSO MARTINS"
+    },
+    {
+      "id": "220481***",
+      "classId": "A",
+      "name": "EMERSON TANNO BRIZOTTO"
+    },
+    {
+      "id": "223084***",
+      "classId": "A",
+      "name": "ENZO D ANDREY LAVIERI YARID"
+    },
+    {
+      "id": "222409***",
+      "classId": "A",
+      "name": "FLAVIO DE BRITO SILVA"
+    },
+    {
+      "id": "223020***",
+      "classId": "A",
+      "name": "GABRIEL ALEXANDRE MARASSI SITTA"
+    },
+    {
+      "id": "222017***",
+      "classId": "A",
+      "name": "GABRIEL DOS SANTOS DEZEMBRO"
+    },
+    {
+      "id": "244632***",
+      "classId": "A",
+      "name": "GABRIEL FRANZOI BARBOSA SE SOUZA"
+    },
+    {
+      "id": "220140***",
+      "classId": "A",
+      "name": "GUSTAVO DOS SANTOS ARNONI"
+    },
+    {
+      "id": "220126***",
+      "classId": "A",
+      "name": "HENRIQUE MANGANOTI PEREIRA"
+    },
+    {
+      "id": "222542***",
+      "classId": "A",
+      "name": "JEAN APARECIDO DE ALMEIDA SOARES"
+    },
+    {
+      "id": "220143***",
+      "classId": "A",
+      "name": "JOAO ANTONIO GARCIA ROLO"
+    },
+    {
+      "id": "220748***",
+      "classId": "A",
+      "name": "JOAO GABRIEL ANTUNES"
+    },
+    {
+      "id": "220939***",
+      "classId": "A",
+      "name": "KAIK DORVALO DOS SANTOS"
+    },
+    {
+      "id": "222620***",
+      "classId": "A",
+      "name": "KAUAN HENRIQUE BERTALHA"
+    },
+    {
+      "id": "220199***",
+      "classId": "A",
+      "name": "LUCAS NIGUTI DOS SANTOS"
+    },
+    {
+      "id": "221994***",
+      "classId": "A",
+      "name": "LUIS EDUARDO ZANIN DE TOLEDO"
+    },
+    {
+      "id": "220126***",
+      "classId": "A",
+      "name": "MATEUS FELIPE BRUNETTI DOS SANTOS"
+    },
+    {
+      "id": "222122***",
+      "classId": "A",
+      "name": "MATHEUS TOSCANO ROSSINI"
+    },
+    {
+      "id": "220141***",
+      "classId": "A",
+      "name": "NATANAEL FIGUEREDO BALBO"
+    },
+    {
+      "id": "199332***",
+      "classId": "A",
+      "name": "PABLO VINICIUS FORMAGIO LIMA"
+    },
+    {
+      "id": "220137***",
+      "classId": "A",
+      "name": "PEDRO AFONSO SENA"
+    },
+    {
+      "id": "200170***",
+      "classId": "A",
+      "name": "PEDRO HENRIQUE SATIM BRAVIN"
+    },
+    {
+      "id": "222575***",
+      "classId": "A",
+      "name": "RAFAEL YUZO FUZII"
+    },
+    {
+      "id": "221881***",
+      "classId": "A",
+      "name": "RENAN TONON DE OLIVEIRA"
+    },
+    {
+      "id": "222727***",
+      "classId": "A",
+      "name": "RENATA HELOISA SARAIVA CASONI"
+    },
+    {
+      "id": "211631***",
+      "classId": "A",
+      "name": "RHAYSSA JUSTINO ANDRETTO"
+    },
+    {
+      "id": "220199***",
+      "classId": "A",
+      "name": "RICARDO FRANCISCO DA SILVA FILHO"
+    },
+    {
+      "id": "220141***",
+      "classId": "A",
+      "name": "RODRIGO SHODI SUMIOSHI"
+    },
+    {
+      "id": "200838***",
+      "classId": "A",
+      "name": "SILVIO SANCHES FILHO"
+    },
+    {
+      "id": "222591***",
+      "classId": "A",
+      "name": "VINICIUS KENJI UDA"
+    },
+    {
+      "id": "240421***",
+      "classId": "A",
+      "name": "VINICIUS LUIZ SANTA ROSA"
+    },
+    {
+      "id": "222763***",
+      "classId": "A",
+      "name": "VINICIUS MONTEIRO DE ARAUJO VILELA"
+    },
+    {
+      "id": "220199***",
+      "classId": "A",
+      "name": "VITOR GALETTI MARTINS"
+    },
+    {
+      "id": "221432***",
+      "classId": "A",
+      "name": "VITOR KENJI KUMASAKA WATANABE"
+    },
+    {
+      "id": "220157***",
+      "classId": "A",
+      "name": "WILLIAN HIDEAKI KAKIHATA"
+    },
+    {
+      "id": "220141***",
+      "classId": "A",
+      "name": "WILLYAN SANTOS TOMAZ E SILVA"
+    },
+    {
+      "id": "220140***",
+      "classId": "A",
+      "name": "YVES MORELLO PEREIRA"
+    }
+  ],
+  "students-class-b": [
+    {
+      "id": "220332***",
+      "classId": "B",
+      "name": "ALISON LUIZ DA SILVA"
+    },
+    {
+      "id": "222108***",
+      "classId": "B",
+      "name": "ALISSON SEGURA KOBAYASHI"
+    },
+    {
+      "id": "220127***",
+      "classId": "B",
+      "name": "ANDRE FRAGALLI VASSOLER"
+    },
+    {
+      "id": "220457***",
+      "classId": "B",
+      "name": "ANNA JULIA DUARTE PRANDO"
+    },
+    {
+      "id": "222335***",
+      "classId": "B",
+      "name": "CAIO HENRIQUE DA SILVA VERRI"
+    },
+    {
+      "id": "220138***",
+      "classId": "B",
+      "name": "DANIEL BONAM RISSARDI"
+    },
+    {
+      "id": "220142***",
+      "classId": "B",
+      "name": "DIOGO TIZOLIM CEDRAN"
+    },
+    {
+      "id": "220145***",
+      "classId": "B",
+      "name": "EDUARDO SILVESTRE NAVARRO"
+    },
+    {
+      "id": "221100***",
+      "classId": "B",
+      "name": "EDUARDO THOME"
+    },
+    {
+      "id": "222074***",
+      "classId": "B",
+      "name": "EDUARDO VOLTATONE RIBEIRO DAS NEVES"
+    },
+    {
+      "id": "220199***",
+      "classId": "B",
+      "name": "FELIPE CESAR DE SOUZA"
+    },
+    {
+      "id": "222405***",
+      "classId": "B",
+      "name": "GABRIEL BASTOS PAIVA"
+    },
+    {
+      "id": "220199***",
+      "classId": "B",
+      "name": "JACOB HENRIQUE CAVALCANTI MACHADO"
+    },
+    {
+      "id": "222763***",
+      "classId": "B",
+      "name": "JOSE FERNANDES DE OLIVEIRA"
+    },
+    {
+      "id": "222118***",
+      "classId": "B",
+      "name": "MARCIO LIMA"
+    },
+    {
+      "id": "220199***",
+      "classId": "B",
+      "name": "MATEUS COSTA"
+    }
+  ]
+}

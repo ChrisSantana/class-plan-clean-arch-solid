@@ -1,0 +1,12 @@
+[
+  {
+    "id": "0000001",
+    "classId": "A",
+    "name": "Test A"
+  },
+  {
+    "id": "0000002",
+    "classId": "B",
+    "name": "Test B"
+  }
+]
